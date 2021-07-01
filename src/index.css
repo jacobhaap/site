@@ -1,0 +1,25 @@
+:root {
+  --text: #DBE2E9;
+  --background: #101820;
+  --accent: #00859B;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 1em;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 18px;
+  color: var(--text);
+  background-color: var(--background);
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+}
