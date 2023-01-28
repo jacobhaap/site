@@ -80,6 +80,7 @@ ul {
   text-decoration-color: var(--accent);
   text-decoration-style: dashed;
   text-decoration-thickness: 4px;
+  line-height: 1.5em;
 }
 
 .socials-icon {
@@ -125,6 +126,12 @@ ul {
 
 .contacts {
   list-style-type: none;
+}
+
+@media (max-width: 430px) {
+	.socials-platform {
+		display: none
+	}
 }
 
 @media (prefers-color-scheme: light) {
