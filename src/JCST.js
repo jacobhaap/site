@@ -1,4 +1,4 @@
-const hoursOffset = -2;
+const hoursOffset = +0;
 
 const GetClock = element => {
     element.innerText = moment().utcOffset(hoursOffset).format('dddd, DD MMMM YYYY, HH:mm:ss');
