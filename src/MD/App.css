@@ -7,13 +7,17 @@
 .markdown-container {
   flex: 1 0 auto;
   line-height: 1.6;
-  width: 100%;
+  width: 50%;
+  min-width: 50%;
   text-align: left;
   margin: 0 auto; /* This is the critical line for centering */
+  padding: 20px;
+  box-sizing: border-box;
   
   /* For narrow viewports and mobile devices */
   @media (max-width: 768px) {
       width: 90%;
+      min-width: 90%;
   }
 }
 
@@ -24,27 +28,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2em;
-}
-
-h2 {
   font-size: 1.75em;
 }
 
-h3 {
+h2 {
   font-size: 1.5em;
 }
 
-h4 {
+h3 {
   font-size: 1.25em;
 }
 
+h4 {
+  font-size: 1.12em;
+}
+
 h5 {
-  font-size: 1.125em;
+  font-size: 1em;
 }
 
 h6 {
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 p {

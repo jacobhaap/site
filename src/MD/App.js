@@ -10,6 +10,7 @@ function App() {
             <div className="App">
                 <Routes>
                     <Route path="/" element={<MarkdownRender fileName="/pages/home.md" />} />
+                    <Route path="/about" element={<MarkdownRender fileName="/pages/about.md" />} />
                     {/* Add more routes as needed for other Markdown files */}
                 </Routes>
                 <Footer />
