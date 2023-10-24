@@ -36,6 +36,21 @@ _This is italic text_
 > > > ...or with spaces between arrows.
 
 
+### Footnotes
+
+Footnote 1 link[^first].
+
+[^first]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+Footnote 2 link[^second].
+
+Duplicated footnote reference[^second].
+
+[^second]: Footnote text.
+
+
 ## Lists
 
 Unordered
@@ -114,18 +129,3 @@ Right aligned columns
 [link text](http://dev.nodeca.com)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-
-### Footnotes
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
