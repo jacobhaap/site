@@ -97,16 +97,6 @@ Block code "fences"
 Sample text here...
 ```
 
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
 ## Tables
 
 | Option | Description |
@@ -126,6 +116,6 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[external link](http://google.com)
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+[internal link](/about)
