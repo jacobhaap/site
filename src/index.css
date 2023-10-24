@@ -2,7 +2,11 @@
   --text: #FFFFFF;
   --background: #28282B;
   --accent: #0389A1;
-  --body-margin: 30px; 
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
 }
 
 html {
@@ -15,7 +19,6 @@ body {
   font-size: 18px;
   color: var(--text);
   background-color: var(--background);
-  margin: var(--body-margin);
   display: flex;
   justify-content: center;
   align-items: flex-start; /* Align to the top */

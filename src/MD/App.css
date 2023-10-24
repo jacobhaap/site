@@ -1,4 +1,11 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 .markdown-container {
+  flex: 1 0 auto;
   line-height: 1.6;
   width: 100%;
   text-align: left;
@@ -165,4 +172,8 @@ section.footnotes {
   padding: 25px;
   overflow-x: auto;
   border-radius: 5px;
+}
+
+.universal-footer {
+  flex-shrink: 0;
 }
