@@ -13,12 +13,6 @@
   margin: 0 auto; /* This is the critical line for centering */
   padding: 20px;
   box-sizing: border-box;
-  
-  /* For narrow viewports and mobile devices */
-  @media (max-width: 768px) {
-      width: 90%;
-      min-width: 90%;
-  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -180,4 +174,12 @@ section.footnotes {
 
 .universal-footer {
   flex-shrink: 0;
+}
+
+/* For narrow viewports and mobile devices */
+@media (max-device-width: 768px) and (orientation: portrait) {
+  .markdown-container, .universal-footer {
+      width: 90%;
+      min-width: 90%;
+  }
 }
