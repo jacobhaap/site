@@ -44,10 +44,13 @@ A history of all the events I have been to.
 + **Draper University Reunion:** 26 - 30 June 2022. San Mateo, US.
 + **Latitude59:** 19 - 20 May 2022. Tallinn, EE.
 + **Venturefest South:** 21 October 2021. Southampton, UK.
++ **TechOlympics 2020:** 22 - 23 February 2020. Cincinnati, US.
 + **CincyHacks:** 25 - 26 January 2020. Cincinnati, US.
 + **Hack Club Leaders Week:** 15 - 19 July 2019. San Francisco, US.
 + **Hack Cincinnati:** 20 - 21 July 2019. Cincinnati, US.
-+ **Los Altos Hacks IV:** 23 - 24 March 2019. Los Altos, US.
++ **Los Altos Hacks IV:** 23 - 24 March 2019. Sunnyvale, US.
++ **TechOlympics 2019:** 22 - 24 February 2019. Cincinnati, US.
 + **CincyHacks:** 22 - 23 September 2018. Cincinnati, US.
 + **Hack Chicago:** 20 - 21 July 2018. Chicago, US.
++ **TechOlympics 2018:** 23 - 25 February 2018. Cincinnati, US.
 + **CincyHacks:** 3 - 4 November 2017. Cincinnati, US.
