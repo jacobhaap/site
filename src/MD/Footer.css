@@ -1,0 +1,18 @@
+.universal-footer {
+    font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+    font-size: 0.9em;
+    font-weight: bold;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--text);
+    padding: 15px 0;
+    text-align: center;
+    border-top: 2px solid var(--accent);
+    margin-top: 1.5em;
+
+    /* For narrow viewports and mobile devices */
+    @media (max-width: 768px) {
+    width: 90%;
+}
+}
