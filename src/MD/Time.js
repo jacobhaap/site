@@ -36,7 +36,13 @@ function Time() {
 
     return data ? (
         <div>
-            The current time is... {adjustedTime.toLocaleTimeString()} {adjustedTime.toLocaleDateString('en-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}, {data.timezone} ({data.abbreviation})
+            <pre>
+                <p><em>The current time is...</em></p>
+                <h2>{adjustedTime.toLocaleTimeString()}</h2>
+                <strong>{adjustedTime.toLocaleDateString('en-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</strong>
+                <p>{data.timezone} ({data.abbreviation}) // Timezone & Abbreviation</p>
+                <p>UTC{data.utc_offset} // UTC Offset</p>
+            </pre>
         </div>
     ) : (
         <div>Loading...</div>
