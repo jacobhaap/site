@@ -34,10 +34,9 @@ function MarkdownRender({ fileName }) {
 
     if (markdown.includes('<!--LAST_SONG-->')) {
         return (
-            <div>
+            <div className="markdown-container">
                 <ReactMarkdown 
                     remarkPlugins={[gfm]} 
-                    className="markdown-container"
                     components={components}
                     children={markdown.replace('<!--LAST_SONG-->', '')}
                 />
@@ -45,15 +44,6 @@ function MarkdownRender({ fileName }) {
             </div>
         );
     }
-
-    return (
-        <ReactMarkdown 
-            remarkPlugins={[gfm]} 
-            className="markdown-container"
-            components={components}
-            children={markdown}
-        />
-    );
 }
 
 export default MarkdownRender;

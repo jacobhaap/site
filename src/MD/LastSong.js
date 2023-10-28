@@ -11,12 +11,12 @@ function LastSong() {
 
     return (
         <ul>
-            {songs.map((song, index) => (
-                <li key={index}>
-                    <a href={song.url} target="_blank" rel="noopener noreferrer">{song.name}</a> by {song.artist}
-                </li>
-            ))}
-        </ul>
+        {songs.map((song, index) => (
+            <li key={index}>
+                <a href={song.url} target="_blank" rel="noopener noreferrer">{song.name}</a> by {song.artist}
+            </li>
+        ))}
+    </ul>
     );
 }
 
