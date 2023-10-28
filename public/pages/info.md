@@ -2,11 +2,17 @@
 # Jacob Haap - Info
 
 ```
-Who is Jacob?
+Random information and fun facts :)
 ```
 
 [`/home`](/) - [`/about`](/about) - [`/events`](/events) - [`/contact`](/contact)
 
 ***
 
-### [Story]
+## [Time]
+
+<!--TIME-->
+
+## [Music]
+
+<!--LAST_SONG-->

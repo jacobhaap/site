@@ -5,7 +5,7 @@
 How to contact me.
 ```
 
-[`/home`](/) - [`/about`](/about) - [`/events`](/events)
+[`/home`](/) - [`/about`](/about) - [`/info`](/info) - [`/events`](/events)
 
 ***
 

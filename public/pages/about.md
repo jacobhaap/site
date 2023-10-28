@@ -5,7 +5,7 @@
 Who is Jacob?
 ```
 
-[`/home`](/) - [`/events`](/events) - [`/contact`](/contact)
+[`/home`](/) - [`/info`](/info) - [`/events`](/events) - [`/contact`](/contact)
 
 ***
 
