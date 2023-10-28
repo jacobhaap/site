@@ -5,7 +5,7 @@
 A history of all the events I have been to.
 ```
 
-[`/home`](/) - [`/about`](/about) - [`/contact`](/contact)
+[`/home`](/) - [`/about`](/about) - [`/info`](/info) - [`/contact`](/contact)
 
 ***
 

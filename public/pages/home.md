@@ -5,7 +5,7 @@
 Software Architect. Founder. Traveler.
 ```
 
-[`/about`](/about) - [`/events`](/events) - [`/contact`](/contact)
+[`/about`](/about) - [`/info`](/info) - [`/events`](/events) - [`/contact`](/contact)
 
 *Greetings fellow humans! I'm Jacob, a human who does stuff.*
 
