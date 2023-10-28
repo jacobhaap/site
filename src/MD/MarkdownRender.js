@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import gfm from 'remark-gfm';
 import { Link } from 'react-router-dom';
 import './App.css';
+import LastSong from './LastSong';
 
 function MarkdownRender({ fileName }) {
     const [markdown, setMarkdown] = useState('');
@@ -30,6 +31,20 @@ function MarkdownRender({ fileName }) {
             return <Link to={href} {...props}>{children}</Link>;
         }
     };
+
+    if (markdown.includes('<!--LAST_SONG-->')) {
+        return (
+            <div>
+                <ReactMarkdown 
+                    remarkPlugins={[gfm]} 
+                    className="markdown-container"
+                    components={components}
+                    children={markdown.replace('<!--LAST_SONG-->', '')}
+                />
+                <LastSong />
+            </div>
+        );
+    }
 
     return (
         <ReactMarkdown 
