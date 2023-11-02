@@ -21,7 +21,21 @@ const components = {
 
         // For all other links (internal page links)
         return <Link to={href} {...props}>{children}</Link>;
-    }
+    },
+    img: ({ alt, src, title }) => {
+        let className = '';
+    
+        // Match the class pattern from the alt text
+        const classPattern = /\[(hard-corner|round-corner)\]$/;
+        const match = alt.match(classPattern);
+    
+        if (match) {
+          className = match[1]; // The captured class name (hard-corner or round-corner)
+          alt = alt.replace(classPattern, '').trim(); // Remove the class pattern from the alt text
+        }
+    
+        return <img src={src} alt={alt} title={title} className={className} />;
+      }
 };
 
 function renderBlock(block) {

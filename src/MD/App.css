@@ -161,6 +161,16 @@ img {
   margin: 20px auto;
 }
 
+img.hard-corner {
+  border: 10px solid var(--accent);
+  border-radius: 0;
+}
+
+img.round-corner {
+  border: 10px solid var(--accent);
+  border-radius: 10%;
+}
+
 sup {
   font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
   font-size: 0.75em;
