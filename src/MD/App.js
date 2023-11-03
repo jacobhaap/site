@@ -14,6 +14,7 @@ function App() {
                     <Route path="/info" element={<MarkdownRender fileName="/pages/info.md" />} />
                     <Route path="/events" element={<MarkdownRender fileName="/pages/events.md" />} />
                     <Route path="/contact" element={<MarkdownRender fileName="/pages/contact.md" />} />
+                    <Route path="*" element={<MarkdownRender fileName="/pages/404.md" />} />
                     {/* Add more routes as needed for other Markdown files */}
                 </Routes>
                 <Footer />
