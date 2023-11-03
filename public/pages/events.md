@@ -12,11 +12,11 @@ A history of all the events I have been to.
 
 ### [Speaking]
 
-+ **Zebu Live:** 05 - 06 October 2023. London, UK.
++ **Zebu Live:** 05 - 06 October 2023. _London, UK._
   - Panelist: "How do we solve real problems with NFTs?"
-+ **Nordic Blockchain Conference:** 06 - 07 September 2023. Copenhagen, DK.
++ **Nordic Blockchain Conference:** 06 - 07 September 2023. _Copenhagen, DK._
   - Panel Moderator: "Generative AI, blockchain and the question of identity."
-+ **NFT Tallinn:** 09 - 10 May 2023. Tallinn, EE.
++ **NFT Tallinn:** 09 - 10 May 2023. _Tallinn, EE._
   - Keynote Speaker: "More than JPEGs: Unlocking NFTs True Potential."
 
 ### [Exhibiting]
@@ -37,21 +37,21 @@ A history of all the events I have been to.
 
 ### [Attending]
 
-+ **Berlin Blockchain Week:** 08 - 17 September 2023. Berlin, DE.
-+ **NFT Fest Lugano:** 07 - 11 September 2023. Lugano, CH.
-+ **NFT Biarritz:** 21 - 22 August 2023. Biarritz, FR.
-+ **NFC Lisbon:** 07 - 08 June 2023. Lisbon, PT.
-+ **Pirate Summit:** 06 - 07 September 2022. Cologne, DE.
-+ **Draper University Reunion:** 26 - 30 June 2022. San Mateo, US.
-+ **Latitude59:** 19 - 20 May 2022. Tallinn, EE.
-+ **Venturefest South:** 21 October 2021. Southampton, UK.
-+ **TechOlympics 2020:** 22 - 23 February 2020. Cincinnati, US.
-+ **CincyHacks:** 25 - 26 January 2020. Cincinnati, US.
-+ **Hack Club Leaders Week:** 15 - 19 July 2019. San Francisco, US.
-+ **Hack Cincinnati:** 20 - 21 July 2019. Cincinnati, US.
-+ **Los Altos Hacks IV:** 23 - 24 March 2019. Sunnyvale, US.
-+ **TechOlympics 2019:** 22 - 24 February 2019. Cincinnati, US.
-+ **CincyHacks:** 22 - 23 September 2018. Cincinnati, US.
-+ **Hack Chicago:** 20 - 21 July 2018. Chicago, US.
-+ **TechOlympics 2018:** 23 - 25 February 2018. Cincinnati, US.
-+ **CincyHacks:** 3 - 4 November 2017. Cincinnati, US.
++ **Berlin Blockchain Week:** 08 - 17 September 2023. _Berlin, DE._
++ **NFT Fest Lugano:** 07 - 11 September 2023. _Lugano, CH._
++ **NFT Biarritz:** 21 - 22 August 2023. _Biarritz, FR._
++ **NFC Lisbon:** 07 - 08 June 2023. _Lisbon, PT._
++ **Pirate Summit:** 06 - 07 September 2022. _Cologne, DE._
++ **Draper University Reunion:** 26 - 30 June 2022. _San Mateo, US._
++ **Latitude59:** 19 - 20 May 2022. _Tallinn, EE._
++ **Venturefest South:** 21 October 2021. _Southampton, UK._
++ **TechOlympics: Activate:** 22 - 23 February 2020. _Cincinnati, US._
++ **CincyHacks:** 25 - 26 January 2020. _Cincinnati, US._
++ **Hack Club Leaders Week:** 15 - 19 July 2019. _San Francisco, US._
++ **Hack Cincinnati:** 20 - 21 July 2019. _Cincinnati, US._
++ **Los Altos Hacks IV:** 23 - 24 March 2019. _Sunnyvale, US._
++ **TechOlympics: Level Up:** 22 - 24 February 2019. _Cincinnati, US._
++ **CincyHacks:** 22 - 23 September 2018. _Cincinnati, US._
++ **Hack Chicago:** 20 - 21 July 2018. _Chicago, US._
++ **TechOlympics: Imagine:** 23 - 25 February 2018. _Cincinnati, US._
++ **CincyHacks:** 3 - 4 November 2017. _Cincinnati, US._

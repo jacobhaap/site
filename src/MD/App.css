@@ -80,6 +80,10 @@ li {
   margin-bottom: 10px;
 }
 
+li strong {
+  color: var(--accent);
+}
+
 hr {
   border: none;
   height: 3px;
