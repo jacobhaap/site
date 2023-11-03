@@ -1,5 +1,6 @@
-## >_
-# Jacob Haap
+![Header Banner[banner]](/banners/banner-0.jpg)
+
+## >_ Jacob Haap
 
 ```
 Software Architect. Founder. Traveler.

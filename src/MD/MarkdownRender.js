@@ -1,27 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import gfm from 'remark-gfm';
-import { Link } from 'react-router-dom';
+import Component_A from './RenderComponents/A';
+import Component_IMG from './RenderComponents/IMG';
 import './App.css';
 import LastSong from './LastSong';
 import Time from './Time';
 
 // Define components outside the function component to be accessible in the module scope
 const components = {
-    a: ({ node, href, children, ...props }) => {
-        // If the link is external
-        if (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('ipfs://')) {
-            return <a href={href} {...props} target="_blank" rel="noopener noreferrer">{children}</a>;
-        }
-
-        // If the link is an internal hash link
-        if (href.startsWith('#')) {
-            return <a href={href} {...props}>{children}</a>;
-        }
-
-        // For all other links (internal page links)
-        return <Link to={href} {...props}>{children}</Link>;
-    }
+    a: Component_A,
+    img: Component_IMG
 };
 
 function renderBlock(block) {

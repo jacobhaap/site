@@ -1,5 +1,6 @@
-## >_
-# Jacob Haap - About
+![Header Banner[banner]](/banners/banner-1.jpg)
+
+## >_ Jacob Haap - About
 
 ```
 Who is Jacob?
@@ -16,6 +17,8 @@ I was born and raised in the United States, in [Cincinnati, Ohio](https://earth.
 Following the initial momentum after placing Third at the school’s Demo Day, and accepting Angel funding for my startup, in the autumn of 2021 I took five weeks to travel across Europe from Dublin, Ireland, to Tallinn, Estonia, putting myself out there to meet new people, share my ideas, and along the way, making the decision to relocate to [Berlin, Germany](https://earth.google.com/web/search/Berlin/). I moved to Berlin in January of 2021, where I have lived ever since, which being 18 at the time was quite a difficult and scary thing to do. Since living in Berlin, I have continued to grow as a person and made significant progress with my startup. Still, most importantly, I've had the chance to get to know some truly unique people from many different backgrounds, and I feel I have the support I need to make a real impact on the world. One thing that matters most to me in life is to be remembered when I'm gone, and I'm hopeful that my journey so far will make this possible.
 
 ***
+
+![Experience Banner[banner]](/banners/banner-2.jpg)
 
 ### [Experience]
 
