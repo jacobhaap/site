@@ -1,5 +1,6 @@
-## >_
-# Jacob Haap - Info
+![Header Banner[banner]](/banners/banner-3.jpg)
+
+## >_ Jacob Haap - Info
 
 ```
 [Redacted]

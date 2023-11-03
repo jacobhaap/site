@@ -1,4 +1,4 @@
-![Header[banner]](https://gitlab.com/j3x/assets/-/raw/main/images/Header.jpg)
+![Header Banner[banner]](/banners/banner-0.jpg)
 
 ## >_ Jacob Haap
 
