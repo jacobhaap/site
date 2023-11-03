@@ -162,16 +162,24 @@ img {
 }
 
 img.hard-corner {
-  border: 10px solid var(--accent);
+  border: 0.35em solid var(--accent);
   border-radius: 0;
 }
 
 img.round-corner {
-  border: 10px solid var(--accent);
+  border: 0.35em solid var(--accent);
   border-radius: 10%;
 }
 
-.header-image {
+img.hard-corner-borderless {
+  border-radius: 0;
+}
+
+img.round-corner-borderless {
+  border-radius: 10%;
+}
+
+.banner-image {
   width: 100%;
   height: 15vh;
   object-fit: cover;

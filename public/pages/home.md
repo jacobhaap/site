@@ -1,7 +1,6 @@
 ![Header[header]](https://gitlab.com/j3x/assets/-/raw/main/images/Header.jpg)
 
-## >_
-# Jacob Haap
+## >_ Jacob Haap
 
 ```
 Software Architect. Founder. Traveler.

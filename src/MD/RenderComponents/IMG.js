@@ -3,15 +3,15 @@ const Component_IMG = ({ alt, src, title }) => {
     let width = '';
     let height = '';
     let alignStyle = {};
-    let isHeaderImage = false;
+    let isBannerImage = false;
 
-    const pattern = /\[(hard-corner|round-corner|header)(?:,width=(\d+px))?(?:,height=(\d+px))?(?:,align=(left|center|right))?\]$/;
+    const pattern = /\[(hard-corner|hard-corner-borderless|round-corner|round-corner-borderless|banner)(?:,width=(\d+px))?(?:,height=(\d+px))?(?:,align=(left|center|right))?\]$/;
     const match = alt.match(pattern);
     
     if (match) {
         const styleType = match[1];
-        if (styleType === 'header') {
-            isHeaderImage = true;
+        if (styleType === 'banner') {
+            isBannerImage = true;
         } else {
             className = styleType;
         }
@@ -24,8 +24,8 @@ const Component_IMG = ({ alt, src, title }) => {
             height = match[3];
         }
 
-        // Extract alignment and set styles (Only if not header image)
-        if (!isHeaderImage) {
+        // Extract alignment and set styles (Only if not banner image)
+        if (!isBannerImage) {
             const alignment = match[4];
             if (alignment === "left") {
                 alignStyle = { display: 'block', marginLeft: '0', marginRight: 'auto' };
@@ -39,13 +39,13 @@ const Component_IMG = ({ alt, src, title }) => {
         alt = alt.replace(pattern, '').trim();
     }
 
-    if (isHeaderImage) {
+    if (isBannerImage) {
         return (
             <img 
                 src={src} 
                 alt={alt} 
                 title={title} 
-                className="header-image"
+                className="banner-image"
             />
         );
     } else {
