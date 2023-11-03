@@ -1,19 +1,16 @@
 const Component_IMG = ({ alt, src, title }) => {
-    let className = '';
     let width = '';
     let height = '';
     let alignStyle = {};
     let isBannerImage = false;
 
-    const pattern = /\[(hard-corner|hard-corner-borderless|round-corner|round-corner-borderless|banner)(?:,width=(\d+px))?(?:,height=(\d+px))?(?:,align=(left|center|right))?\]$/;
+    const pattern = /\[(banner)(?:,width=(\d+px))?(?:,height=(\d+px))?(?:,align=(left|center|right))?\]$/;
     const match = alt.match(pattern);
     
     if (match) {
         const styleType = match[1];
         if (styleType === 'banner') {
             isBannerImage = true;
-        } else {
-            className = styleType;
         }
 
         // Check if width and height are present
@@ -54,7 +51,6 @@ const Component_IMG = ({ alt, src, title }) => {
                 src={src} 
                 alt={alt} 
                 title={title} 
-                className={className}
                 style={{ width: width, height: height, ...alignStyle }}
             />
         );
