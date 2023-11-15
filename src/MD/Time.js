@@ -2,34 +2,39 @@ import React, { useState, useEffect } from 'react';
 
 function Time() {
     const [data, setData] = useState(null);
-    const [currentTime, setCurrentTime] = useState(new Date());
 
     useEffect(() => {
         fetch('https://api.j3.cx/time')
             .then(response => response.json())
-            .then(data => {
-                setData(data);
-                // Set an interval to update the time every second
-                const interval = setInterval(() => {
-                    setCurrentTime(new Date());
-                }, 1000);
-                // Clear the interval when the component is unmounted
-                return () => clearInterval(interval);
-            });
+            .then(data => setData(data));
+
+        // Set an interval to update the time every second
+        const interval = setInterval(() => {
+            setData(prevData => ({ ...prevData }));
+        }, 1000);
+
+        // Clear the interval when the component is unmounted
+        return () => clearInterval(interval);
     }, []);
 
     // Compute the current time based on utc_offset
     const getAdjustedTime = () => {
-        if (!data) return currentTime;
+        if (!data) {
+            // Return the current UTC time if data is not yet loaded
+            return new Date(new Date().getTime() + new Date().getTimezoneOffset() * 60000);
+        }
 
         const offsetHours = parseInt(data.utc_offset.split(':')[0]);
         const offsetMinutes = parseInt(data.utc_offset.split(':')[1]);
 
-        const adjustedTime = new Date(currentTime);
-        adjustedTime.setHours(currentTime.getHours() + offsetHours);
-        adjustedTime.setMinutes(currentTime.getMinutes() + offsetMinutes);
+        // Get current UTC time
+        const now = new Date(new Date().getTime() + new Date().getTimezoneOffset() * 60000);
 
-        return adjustedTime;
+        // Apply the offset from the API data
+        now.setHours(now.getHours() + offsetHours);
+        now.setMinutes(now.getMinutes() + offsetMinutes);
+
+        return now;
     };
 
     const adjustedTime = getAdjustedTime();
@@ -38,7 +43,7 @@ function Time() {
         <div>
             <pre>
                 <p><em>The current time is...</em></p>
-                <h2>{adjustedTime.toLocaleTimeString()}</h2>
+                <h2>{adjustedTime.toLocaleTimeString('en-DE')}</h2>
                 <strong>{adjustedTime.toLocaleDateString('en-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</strong>
                 <p>{data.timezone} ({data.abbreviation}) // Timezone & Abbreviation</p>
                 <p>UTC{data.utc_offset} // UTC Offset</p>
