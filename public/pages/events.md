@@ -3,7 +3,7 @@
 ## >_ Jacob Haap - Events
 
 ```
-A history of all the events I have been to.
+A history of my events and speaking engagements.
 ```
 
 [`/home`](/) - [`/about`](/about) - [`/info`](/info) - [`/contact`](/contact)
@@ -12,12 +12,18 @@ A history of all the events I have been to.
 
 ### [Speaking]
 
-+ **Zebu Live:** 05 - 06 October 2023. _London, UK._
-  - Panelist: "How do we solve real problems with NFTs?"
++ **Butler Tech:** 28 November 2023. _Fairfield Township, OH, US._
+  - School, Guest Speaker
+  - Topic: "Introduction to Web3 & Blockchain Technologies."
++ **[Zebu Live](https://www.youtube.com/watch?v=dLKsU3awc1o):** 05 - 06 October 2023. _London, UK._
+  - Conference, Panelist
+  - Topic: "How do we solve real problems with NFTs?"
 + **Nordic Blockchain Conference:** 06 - 07 September 2023. _Copenhagen, DK._
-  - Panel Moderator: "Generative AI, blockchain and the question of identity."
+  - Conference, Panel Moderator
+  - Topic: "Generative AI, blockchain and the question of identity."
 + **NFT Tallinn:** 09 - 10 May 2023. _Tallinn, EE._
-  - Keynote Speaker: "More than JPEGs: Unlocking NFTs True Potential."
+  - Conference, Keynote Speaker
+  - Topic: "More than JPEGs: Unlocking NFTs True Potential."
 
 ### [Exhibiting]
 
@@ -46,12 +52,12 @@ A history of all the events I have been to.
 + **Latitude59:** 19 - 20 May 2022. _Tallinn, EE._
 + **Venturefest South:** 21 October 2021. _Southampton, UK._
 + **TechOlympics: Activate:** 22 - 23 February 2020. _Cincinnati, US._
-+ **CincyHacks:** 25 - 26 January 2020. _Cincinnati, US._
++ **CincyHacks:** 25 - 26 January 2020. Mason, OH, US._
 + **Hack Club Leaders Week:** 15 - 19 July 2019. _San Francisco, US._
 + **Hack Cincinnati:** 20 - 21 July 2019. _Cincinnati, US._
 + **Los Altos Hacks IV:** 23 - 24 March 2019. _Sunnyvale, US._
 + **TechOlympics: Level Up:** 22 - 24 February 2019. _Cincinnati, US._
-+ **CincyHacks:** 22 - 23 September 2018. _Cincinnati, US._
++ **CincyHacks:** 22 - 23 September 2018. _Mason, OH, US._
 + **Hack Chicago:** 20 - 21 July 2018. _Chicago, US._
 + **TechOlympics: Imagine:** 23 - 25 February 2018. _Cincinnati, US._
 + **CincyHacks:** 3 - 4 November 2017. _Cincinnati, US._
