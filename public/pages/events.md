@@ -15,9 +15,10 @@ A history of my events and speaking engagements.
 + **Butler Tech:** 28 November 2023. _Fairfield Township, OH, US._
   - School, Guest Speaker
   - Topic: "Introduction to Web3 & Blockchain Technologies."
-+ **[Zebu Live](https://www.youtube.com/watch?v=dLKsU3awc1o):** 05 - 06 October 2023. _London, UK._
++ **Zebu Live:** 05 - 06 October 2023. _London, UK._
   - Conference, Panelist
   - Topic: "How do we solve real problems with NFTs?"
+  - [Watch Panel on YouTube ↗](https://www.youtube.com/watch?v=dLKsU3awc1o)
 + **Nordic Blockchain Conference:** 06 - 07 September 2023. _Copenhagen, DK._
   - Conference, Panel Moderator
   - Topic: "Generative AI, blockchain and the question of identity."
@@ -52,7 +53,7 @@ A history of my events and speaking engagements.
 + **Latitude59:** 19 - 20 May 2022. _Tallinn, EE._
 + **Venturefest South:** 21 October 2021. _Southampton, UK._
 + **TechOlympics: Activate:** 22 - 23 February 2020. _Cincinnati, US._
-+ **CincyHacks:** 25 - 26 January 2020. Mason, OH, US._
++ **CincyHacks:** 25 - 26 January 2020. _Mason, OH, US._
 + **Hack Club Leaders Week:** 15 - 19 July 2019. _San Francisco, US._
 + **Hack Cincinnati:** 20 - 21 July 2019. _Cincinnati, US._
 + **Los Altos Hacks IV:** 23 - 24 March 2019. _Sunnyvale, US._
