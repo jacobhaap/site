@@ -28,18 +28,18 @@ A history of my events and speaking engagements.
 
 ### [Exhibiting]
 
-+ **Web Summit:** 01 - 04 November 2022. Lisbon, PT.
++ **Web Summit:** 01 - 04 November 2022. _Lisbon, PT._
   - Startup Exhibitor as part of the ALPHA startup program.
 
 ### [Organizing]
 
-+ **AngelHacks 2.0:** 26 - 28 February 2021. Online.
++ **AngelHacks 2.0:** 26 - 28 February 2021. _Online._
   - Organizer, Logistics.
-+ **Hack the New Year:** 11 - 12 January 2020. Cincinnati, US.
++ **Hack the New Year:** 11 - 12 January 2020. _Cincinnati, US._
   - Organizer, Director.
-+ **AngelHacks:** 26 October 2019. Santa Monica, US.
++ **AngelHacks:** 26 October 2019. _Santa Monica, US._
   - Organizer, Advisor.
-+ **CodeDay Ohio:** 25 - 26 May 2019. Cincinnati, US.
++ **CodeDay Ohio:** 25 - 26 May 2019. _Cincinnati, US._
   - Organizer, Regional Manager.
 
 ### [Attending]
