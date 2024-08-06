@@ -19,21 +19,22 @@ A history of my events and speaking engagements.
 + **ETH Belgrade** | _Belgrade, RS_
   - Conference/Hackathon, 03 - 05 June 2024.
   - Solo Talk: "Why no one cares about your NFT project."
-  - [Watch Talk on YouTube ↗](https://www.youtube.com/watch?v=cZ9HTIKFe6o)
+    - [Watch Talk on YouTube ↗](https://www.youtube.com/watch?v=cZ9HTIKFe6o)
 + **ETH Dublin** | _Dublin, IE._
   - Conference/Hackathon, 31 May - 02 June 2024.
   - Panelist: "Building on Ethereum."
-  - [Watch Clip on Instagram ↗](https://www.instagram.com/reel/C7r0NuaoDkk/)
+    - [Watch Clip on Instagram ↗](https://www.instagram.com/reel/C7r0NuaoDkk/)
 + **Non-Fungible Conference** | _Lisbon, PT._
   - Conference, 28 - 30 May 2024.
   - Lightning Talk: "Why no one cares about your NFT project."
-  - [Watch Talk on YouTube ↗](https://www.youtube.com/watch?v=RwUvORqc62g)
+    - [Watch Talk on YouTube ↗](https://www.youtube.com/watch?v=RwUvORqc62g)
 + **NFT Bucharest** | _Bucharest, RO._
   - Conference, 09 - 09 May 2024.
   - Panelist: "NFT Ticketing Panel."
 + **BananaConf Tallinn** | _Tallinn, EE._
   - Conference, 22 - 24 April 2024.
   - Panelist: "Why no one cares about your NFT project."
+    - [Watch Panel on YouTube ↗](https://www.youtube.com/watch?v=DrhCEdGP3KE)
   - Panelist: "Upgrading consumers to holders through personalized loyalty programs."
 + **NFT.NYC** | _New York City, US._
   - Conference, 03 - 05 April 2024.
@@ -44,7 +45,7 @@ A history of my events and speaking engagements.
 + **Zebu Live** | _London, UK._
   - Conference, 05 - 06 October 2023.
   - Panelist: "How do we solve real problems with NFTs?"
-  - [Watch Panel (Edited) on YouTube ↗](https://www.youtube.com/watch?v=dLKsU3awc1o)
+    - [Watch Panel (Edited) on YouTube ↗](https://www.youtube.com/watch?v=dLKsU3awc1o)
 + **Nordic Blockchain Conference** | _Copenhagen, DK._
   - Conference, 06 - 07 September 2023.
   - Panel Moderator: "Generative AI, blockchain and the question of identity."
