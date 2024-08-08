@@ -7,7 +7,6 @@ import './App.css';
 import LastSong from './LastSong';
 import Time from './Time';
 
-// Define components outside the function component to be accessible in the module scope
 const components = {
     a: Component_A,
     img: Component_IMG

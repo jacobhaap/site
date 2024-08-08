@@ -20,6 +20,6 @@ body {
   color: var(--text);
   background-color: var(--background);
   justify-content: center;
-  align-items: flex-start; /* Align to the top */
-  min-height: 100vh; /* Ensure full height */
+  align-items: flex-start;
+  min-height: 100vh;
 }
